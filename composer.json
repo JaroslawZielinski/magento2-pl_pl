@@ -1,0 +1,21 @@
+{
+    "name": "jaroslawzielinski/magento2-pl_pl",
+    "description": "Polish locale package for Magento 2",
+    "type": "magento2-language",
+    "license": "MIT Licencse",
+    "authors": [
+        {
+            "name": "Jarosław Zieliński",
+            "email": "jarek.zielinski82@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "magento/framework": "*"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
