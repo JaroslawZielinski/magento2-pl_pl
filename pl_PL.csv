@@ -220,7 +220,7 @@
 "Field ","Pole","module","Magento_Checkout"
 " is required."," jest wymagane.","module","Magento_Checkout"
 "Something went wrong with your request. Please try again later.","Coś poszło nie tak z Twoją prośbą. Spróbuj ponownie później.","module","Magento_Checkout"
-"New Address","Nowy adres","module","Magento_Checkout"
+"New Addres​s","Nowy adres","module","Magento_Checkout"
 "Are you sure you would like to remove this item from the shopping cart?","Czy na pewno chcesz usunąć ten przedmiot z koszyka?","module","Magento_Checkout"
 "Review & Payments","Przegląd i płatności","module","Magento_Checkout"
 "Select a new payment method","Wybierz nową metodę płatności","module","Magento_Checkout"
