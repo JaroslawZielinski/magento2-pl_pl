@@ -834,6 +834,7 @@
 "Edit Account Information","Edytuj informacje o koncie","module","Magento_Customer"
 "Password forgotten","Zapomniane hasło","module","Magento_Customer"
 "You are signed out","Zostałeś wylogowany","module","Magento_Customer"
+"Customer Login","Login klienta","module","Magento_Customer"
 "The SKU is out of stock.","SKU jest niedostępny.","module","Magento_InventoryRequisitionList"
 "The requested qty is not available","Żądana ilość nie jest dostępna","module","Magento_InventoryRequisitionList"
 "The product that was requested doesn't exist. Verify the product and try again.","Żądany produkt nie istnieje. Sprawdź produkt i spróbuj ponownie.","module","Magento_InventorySales"
