@@ -3336,7 +3336,7 @@
 "URL","URL","module","Magento_Downloadable"
 "attachment","Załącznik","module","Magento_Downloadable"
 "inline","wbudowany","module","Magento_Downloadable"
-"Pending","Nierozstrzygnięty","module","Magento_Downloadable"
+"Pending","Oczekuje","module","Magento_Downloadable"
 "Invoiced","Zafakturowane","module","Magento_Downloadable"
 "To enable the option set the weight to no","Aby włączyć opcję, ustaw wagę na no","module","Magento_Downloadable"
 "Is this downloadable Product?","Czy ten produkt można pobrać?","module","Magento_Downloadable"
@@ -3513,7 +3513,7 @@
 "We can't post your review right now.","Nie możemy teraz opublikować Twojej recenzji.","module","Magento_Review"
 "The storage key wasn't set. Add the storage key and try again.","Klucz pamięci nie został ustawiony. Dodaj klucz pamięci i spróbuj ponownie.","module","Magento_Review"
 "Approved","Zatwierdzony","module","Magento_Review"
-"Pending","Nierozstrzygnięty","module","Magento_Review"
+"Pending","Oczekuje","module","Magento_Review"
 "Not Approved","Niezatwierdzony","module","Magento_Review"
 "Please enter a review summary.","Wprowadź podsumowanie recenzji.","module","Magento_Review"
 "Please enter a nickname.","Proszę wpisać pseudonim.","module","Magento_Review"
@@ -3925,7 +3925,7 @@
 "The entity that was requested doesn't exist. Verify the entity and try again.","Żądana jednostka nie istnieje. Sprawdź jednostkę i spróbuj ponownie.","module","Magento_Sales"
 "The order address couldn't be deleted.","Nie udało się usunąć adresu zamówienia.","module","Magento_Sales"
 "The order address couldn't be saved.","Nie udało się zapisać adresu zamówienia.","module","Magento_Sales"
-"Pending","Nierozstrzygnięty","module","Magento_Sales"
+"Pending","Oczekuje","module","Magento_Sales"
 "Refunded","Zwrócone","module","Magento_Sales"
 "Canceled","Odwołany","module","Magento_Sales"
 "Unknown State","Nieznany stan","module","Magento_Sales"
@@ -4432,3 +4432,170 @@
 "PDF Shipments","Przesyłki PDF","module","Magento_Sales"
 "PDF Creditmemos","Noty kredytowe w formacie PDF","module","Magento_Sales"
 "Refunds","Zwroty","module","Magento_Sales"
+"Invalid store requested.","Zażądano nieprawidłowego sklepu.","module","Magento_Store"
+"Current store is not active.","Obecny sklep nie jest aktywny.","module","Magento_Store"
+"Requested store is inactive","Żądany sklep jest nieaktywny","module","Magento_Store"
+"The store that was requested wasn't found. Verify the store and try again.","Żądany sklep nie został znaleziony. Sprawdź sklep i spróbuj ponownie.","module","Magento_Store"
+"The requested customer does not exist.","Żądany klient nie istnieje.","module","Magento_Store"
+"There was an error retrieving the customer record.","Wystąpił błąd podczas pobierania rekordu klienta.","module","Magento_Store"
+"The requested store cannot be found. Please check the request and try again.","Nie można znaleźć żądanego sklepu. Sprawdź żądanie i spróbuj ponownie.","module","Magento_Store"
+"Environment emulation nesting is not allowed.","Zagnieżdżanie emulacji środowiska jest niedozwolone.","module","Magento_Store"
+"%1","% 1","module","Magento_Store"
+"The website wasn't found. Verify the website and try again.","Witryna nie została znaleziona. Zweryfikuj witrynę i spróbuj ponownie.","module","Magento_Store"
+"The group wasn't found. Verify the group and try again.","Grupa nie została znaleziona. Sprawdź grupę i spróbuj ponownie.","module","Magento_Store"
+"The store wasn't found. Verify the store and try again.","Nie znaleziono sklepu. Sprawdź sklep i spróbuj ponownie.","module","Magento_Store"
+"The class for ""%1"" type wasn't declared. Enter the class and try again.","Klasa dla typu „%1” nie została zadeklarowana. Wejdź na zajęcia i spróbuj ponownie.","module","Magento_Store"
+"%1 should implement %2","% 1 powinien zaimplementować % 2","module","Magento_Store"
+"The following stores are not associated with a root category: ' . . '. For the store to be displayed in the storefront, it must be associated with a root category.","Następujące sklepy nie są powiązane z kategorią główną: ' . . „. Aby sklep był wyświetlany w witrynie sklepowej, musi być powiązany z kategorią główną.","module","Magento_Store"
+"The scope object is invalid. Verify the scope object and try again.","Obiekt zakresu jest nieprawidłowy. Sprawdź obiekt zakresu i spróbuj ponownie.","module","Magento_Store"
+"Group with the same code","Grupuj z tym samym kodem","module","Magento_Store"
+"Store with the same code","Sklep z tym samym kodem","module","Magento_Store"
+"Website with the same code","Strona z tym samym kodem","module","Magento_Store"
+"Website code may only contain letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","Kod witryny może zawierać tylko litery (a-z), cyfry (0-9) lub podkreślenie (_), a pierwszy znak musi być literą.","module","Magento_Store"
+"Name is required","imie jest wymagane","module","Magento_Store"
+"The store code may contain only letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","Kod sklepu może zawierać tylko litery (a-z), cyfry (0-9) lub podkreślenie (_), a pierwszy znak musi być literą.","module","Magento_Store"
+"Store is inactive","Sklep jest nieaktywny","module","Magento_Store"
+"Invalid store parameter.","Nieprawidłowy parametr sklepu.","module","Magento_Store"
+"Default store is inactive","Domyślny sklep jest nieaktywny","module","Magento_Store"
+"The store cannot be switched.","Sklepu nie można zmienić.","module","Magento_Store"
+"All Store Views","Wszystkie wyświetlenia w sklepie","module","Magento_Store"
+"-- Please Select --","-- Proszę wybrać --","module","Magento_Store"
+"Admin","Administrator","module","Magento_Store"
+"The default website isn't defined. Set the website and try again.","Domyślna witryna nie jest zdefiniowana. Ustaw witrynę i spróbuj ponownie.","module","Magento_Store"
+"The default website is invalid. Make sure no more than one default is defined and try again.","Domyślna witryna jest nieprawidłowa. Upewnij się, że zdefiniowano nie więcej niż jedną wartość domyślną i spróbuj ponownie.","module","Magento_Store"
+"no such entity exception","brak takiego wyjątku podmiotu","module","Magento_Store"
+"Your Language:","Twój język:","module","Magento_Store"
+"Your Language","Twój język","module","Magento_Store"
+"Language","Język","module","Magento_Store"
+"Select Store","Wybierz Sklep","module","Magento_Store"
+"Configuration","Konfiguracja","module","Magento_Store"
+"Various XML configurations that were collected across modules and merged","Różne konfiguracje XML, które zostały zebrane z różnych modułów i połączone","module","Magento_Store"
+"Layouts","Układy","module","Magento_Store"
+"Layout building instructions","Instrukcje budowania układu","module","Magento_Store"
+"Blocks HTML output","Blokuje wyjście HTML","module","Magento_Store"
+"Page blocks HTML","Bloki stron HTML","module","Magento_Store"
+"Collections Data","Dane kolekcji","module","Magento_Store"
+"Collection data files","Zbieranie plików danych","module","Magento_Store"
+"Reflection Data","Dane odbicia","module","Magento_Store"
+"API interfaces reflection data","Dane odbicia interfejsów API","module","Magento_Store"
+"Database DDL operations","Operacje DDL na bazie danych","module","Magento_Store"
+"Results of DDL queries, such as describing tables or indexes","Wyniki zapytań DDL, takie jak opisywanie tabel lub indeksów","module","Magento_Store"
+"Compiled Config","Skompilowana konfiguracja","module","Magento_Store"
+"Compilation configuration","Konfiguracja kompilacji","module","Magento_Store"
+"Solwin","Solwin","module","Solwin_Core"
+"Freego","Freego","module","Solwin_Cpanel"
+"Theme Settings","Ustawienia motywu","module","Solwin_Cpanel"
+"Layout","Układ","module","Solwin_Cpanel"
+"Select Layout","Wybierz układ","module","Solwin_Cpanel"
+"Header","nagłówek","module","Solwin_Cpanel"
+"Top Header Notification","Powiadomienie w górnym nagłówku","module","Solwin_Cpanel"
+"Show Sharing Addon","Pokaż dodatek do udostępniania","module","Solwin_Cpanel"
+"Addthis Pub ID","Dodaj ten identyfikator wydawcy","module","Solwin_Cpanel"
+"Add Home Link In Navigation","Dodaj link do domu w nawigacji","module","Solwin_Cpanel"
+"Footer","Stopka","module","Solwin_Cpanel"
+"Show Newsletter","Pokaż biuletyn","module","Solwin_Cpanel"
+"Newsletter Block Title","Tytuł bloku biuletynu","module","Solwin_Cpanel"
+"Newsletter Block Text","Tekst bloku biuletynu","module","Solwin_Cpanel"
+"Footer Logo","Logo w stopce","module","Solwin_Cpanel"
+"Allow file formats are *.jpg, *.jpeg, *.png, *.gif.<style>
+                        #cpanelsection_footergroup_footer_logo_image {
+                            width: 100px;
+                            height: auto;
+                        }
+                        #cpanelsection_footergroup_footer_logo {
+                            display: block;
+                        }
+                        #cpanelsection_footergroup_footer_logo_delete {
+                            vertical-align: bottom;
+                        }
+                    </style>","Dozwolone formaty plików to *.jpg, *.jpeg, *.png, *.gif.<style>
+                        #cpanelsection_footergroup_footer_logo_image {
+                            width: 100px;
+                            height: auto;
+                        }
+                        #cpanelsection_footergroup_footer_logo {
+                            display: block;
+                        }
+                        #cpanelsection_footergroup_footer_logo_delete {
+                            vertical-align: bottom;
+                        }
+                    </style>","module","Solwin_Cpanel"
+"Show Social Icon","Pokaż ikonę społecznościową","module","Solwin_Cpanel"
+"Show Facebook","Pokaż Facebooka","module","Solwin_Cpanel"
+"Facebook Url","URL facebooka","module","Solwin_Cpanel"
+"Show Twitter","Pokaż Twittera","module","Solwin_Cpanel"
+"Twitter Url","URL na Twitterze","module","Solwin_Cpanel"
+"Show Linkedin","Pokaż Linkedin","module","Solwin_Cpanel"
+"Linkedin Url","Linkedin URL","module","Solwin_Cpanel"
+"Show Pinterest","Pokaż Pinterest","module","Solwin_Cpanel"
+"Pinterest Url","Pinterest URL","module","Solwin_Cpanel"
+"Product List Page","Strona z listą produktów","module","Solwin_Cpanel"
+"Show New Label","Pokaż nową etykietę","module","Solwin_Cpanel"
+"Show Sale Label","Pokaż etykietę sprzedaży","module","Solwin_Cpanel"
+"Product View Page","Strona widoku produktu","module","Solwin_Cpanel"
+"Show Sharing addon","Pokaż dodatek do udostępniania","module","Solwin_Cpanel"
+"Show Related, Upsell And Crosssell Products","Pokaż produkty powiązane, upsell i cross-sell","module","Solwin_Cpanel"
+"Contact Page","Strona kontaktowa","module","Solwin_Cpanel"
+"Show Google Map","Pokaż mapę Google","module","Solwin_Cpanel"
+"Google Map Embeded Code","Kod osadzony mapy Google","module","Solwin_Cpanel"
+"Store Name","Nazwa sklepu","module","Solwin_Cpanel"
+"Store Address","Adres sklepu","module","Solwin_Cpanel"
+"Contact No.","Numer kontaktowy","module","Solwin_Cpanel"
+"Store Email","Sklep e-mail","module","Solwin_Cpanel"
+"Scroll to Top","Przewiń na górę","module","Solwin_ScrolltoTop"
+"General","Ogólny","module","Solwin_ScrolltoTop"
+"Enable","Włączyć","module","Solwin_ScrolltoTop"
+"Display","Wyświetlacz","module","Solwin_ScrolltoTop"
+"Text on Link","Tekst na łączu","module","Solwin_ScrolltoTop"
+"Image for Link","Obraz dla linku","module","Solwin_ScrolltoTop"
+"Image for Hover Link","Obraz dla linku do najechania","module","Solwin_ScrolltoTop"
+"Position","Pozycja","module","Solwin_ScrolltoTop"
+"Background Color","Kolor tła","module","Solwin_ScrolltoTop"
+"Background Hover Color","Kolor tła po najechaniu","module","Solwin_ScrolltoTop"
+"Text Color","Kolor tekstu","module","Solwin_ScrolltoTop"
+"Text Hover Color","Kolor najechania na tekst","module","Solwin_ScrolltoTop"
+"upload image for sold out label. Allow file formats are *.jpg, *.jpeg, *.png, *.gif.<style>
+                          #outofstock_product_outofstockproduct_imageoutofstock_image {
+                              width: 100px;
+                              height: auto;
+                          }
+                          #outofstock_product_outofstockproduct_imageoutofstock {
+                              display: block;
+                          }
+                          #outofstock_product_outofstockproduct_imageoutofstock_delete {
+                              vertical-align: bottom;
+                          }
+                      </style>","prześlij obraz do wyprzedanej etykiety. Dozwolone formaty plików to *.jpg, *.jpeg, *.png, *.gif.<style>
+                          #outofstock_product_outofstockproduct_imageoutofstock_image {
+                              width: 100px;
+                              height: auto;
+                          }
+                          #outofstock_product_outofstockproduct_imageoutofstock {
+                              display: block;
+                          }
+                          #outofstock_product_outofstockproduct_imageoutofstock_delete {
+                              vertical-align: bottom;
+                          }
+                      </style>","module","Solwin_Soldout"
+"Sold Out Image Height","Wyprzedana wysokość obrazu","module","Solwin_Soldout"
+"Sold Out Image Width","Wyprzedana szerokość obrazu","module","Solwin_Soldout"
+"error","błąd","module","Solwin_Soldout"
+"Label","Etykieta","module","Solwin_Soldout"
+"Image","Obraz","module","Solwin_Soldout"
+"Top Left","Lewy górny","module","Solwin_Soldout"
+"Top Center","Górny środek","module","Solwin_Soldout"
+"Top Right","W prawym górnym rogu","module","Solwin_Soldout"
+"Middle Left","Środkowy lewy","module","Solwin_Soldout"
+"Middle Center","Środkowy środek","module","Solwin_Soldout"
+"Middle Right","Środkowy prawy","module","Solwin_Soldout"
+"Bottom Left","Na dole po lewej","module","Solwin_Soldout"
+"Bottom Center","Dolny środek","module","Solwin_Soldout"
+"Bottom Right","Prawy dolny","module","Solwin_Soldout"
+"Sold Out Label","Wyprzedane etykiety","module","Solwin_Soldout"
+"Sold Out Label Configuration","Konfiguracja etykiety wyprzedanej","module","Solwin_Soldout"
+"Enable sold out Label","Włącz wyprzedane etykiety","module","Solwin_Soldout"
+"Show sold out Label/Image","Pokaż wyprzedane etykiety/obrazy","module","Solwin_Soldout"
+"Show sold out Label Position","Pokaż wyprzedane pozycje etykiety","module","Solwin_Soldout"
+"Show sold out Image Position","Pokaż wyprzedane położenie obrazu","module","Solwin_Soldout"
+"Sold Out Label Title","Wyprzedany tytuł etykiety","module","Solwin_Soldout"
+"Image for Sold Out Label","Obraz etykiety Wyprzedane","module","Solwin_Soldout"
